@@ -97,8 +97,7 @@ def listar_contas(contas):
         
         """
         print("="*100 + linha)
-        print(linha)
-        
+                
         
 def main():
     LIMITE_SAQUES = 3
